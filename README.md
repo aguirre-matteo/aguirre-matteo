@@ -16,14 +16,18 @@ do some project with me!
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible&logoColor=FFFFFF)
-![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-#### Other
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
 #### Operating Systems
 ![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian&logoColor=FFFFFF)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
 ![NixOS](https://img.shields.io/badge/nixos-black?style=for-the-badge&logo=nixos&logoColor=FFFFFF)
+
+#### Coming soon
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
+![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
