@@ -1,10 +1,12 @@
 # Welcome! 👋
+<p align="justify">
 Hi, I'm Aguirre Matteo, a young student from a Tech School in Argentina.
 I like Math, Coding and any other field that is challenging and captures
 my attention for a while. I'm currently doing some Homelabing in my room,
 studying to become a Linux SysAdmin and contributing to some Open Source
 projects. Feel free to take a look at my profile, and DM me if want to
 do some project with me!
+</p>
 
 ```
 Email: aguirre.matteo77@gmail.com
