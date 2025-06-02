@@ -21,7 +21,7 @@ the right place.
 </p>
 
 ```
-Email: aguirre.matteo77@gmail.com
+Email: aguirre-matteo@proton.me
 Website: https://aguirre-matteo.github.io/
 ```
 
