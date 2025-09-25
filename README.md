@@ -7,22 +7,19 @@ the tools and skills that are needed in a typical job, like managing and
 configuring services such as DHCPs, DNSs, Web servers, and working with containers.
 
 I've studied English for around 2-3 years, but mainly acquired it due to fully
-immersing myself in the language and only consuming content in that language.
+immersing myself in it, and by only consuming content in that language.
 I could say I'm proficient at reading and writting text in English, but I still
-have to practice my pronounciation.
+need to practice my pronounciation.
 
-I also self-studied Calculus and other advanced Math topics such as Statistics,
-Linear Algebra and Differential Equations. I've a great foundation in Algebra,
-which made it easier to learn those topics.
-
-I store all my knowledge in the form of a blog in my personal website, so feel free to take a look at it! If you're looking for
-someone focused in learning and doing the job the right way, then you're in
-the right place.
+I also self-studied Calculus and other advanced Math topics such as Linear Algebra
+and Differential Equations. I've a great foundation in Algebra, which made it easier
+to learn those topics.
 </p>
 
 ```
 Email: aguirre-matteo@proton.me
-Website: https://aguirre-matteo.github.io/
+BTC: bc1qgd7a6m045g779yswq4nrq7auzysg5cd6wds5vm
+XMR: 86m7fiwx2C9ZxKGmtYNZFDcreBghvvvJzGpbif1JpuY5U8iskz2TRjJeousLB5cC1UZk2zeL1zK9d7iwKemYccNg3KTAMNy
 ```
 
 ## Tech Stack
