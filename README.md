@@ -16,12 +16,6 @@ and Differential Equations. I've a great foundation in Algebra, which made it ea
 to learn those topics.
 </p>
 
-```
-Email: aguirre-matteo@proton.me
-BTC: bc1qgd7a6m045g779yswq4nrq7auzysg5cd6wds5vm
-XMR: 86m7fiwx2C9ZxKGmtYNZFDcreBghvvvJzGpbif1JpuY5U8iskz2TRjJeousLB5cC1UZk2zeL1zK9d7iwKemYccNg3KTAMNy
-```
-
 ## Tech Stack
 #### Programming Languages
 ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=%23ffffff&color=%2300ACD7)
@@ -57,3 +51,32 @@ XMR: 86m7fiwx2C9ZxKGmtYNZFDcreBghvvvJzGpbif1JpuY5U8iskz2TRjJeousLB5cC1UZk2zeL1zK
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-black?style=for-the-badge&logo=almalinux&logoColor=%23ffffff&color=%2300245E)
 
 #
+
+<details>
+  <summary><h2>📬Contact</h2></summary>
+  <ul>
+    <li>Email: aguirre-matteo@proton.me</li>
+    <li>Matrix: <a href="https://matrix.to/#/@aguirre-matteo:matrix.org">@aguirre-matteo</a></li>
+    <li>Signal: <a href="https://signal.me/#eu/EKwH6mesyBpG4JelNxlBOl0FNka7FzR1ywv4iK6a8SluO2wnlMZEUJJYWA1aupn8">Matteo</a></li>
+    <li>Telegram: <a href="https://t.me/introvertedintuitionnn">@introvertedintuition</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><h2>🪙Donate</h2></summary>
+  <ul>
+    <li>Monero: 86m7fiwx2C9ZxKGmtYNZFDcreBghvvvJzGpbif1JpuY5U8iskz2TRjJeousLB5cC1UZk2zeL1zK9d7iwKemYccNg3KTAMNy
+    <details>
+      <summary>Show QR Code</summary>
+      <img src="assets/monero-qr.png" alt="Monero QR" width="300">
+    </details>
+    </li>
+    <li>BTC: bitcoin:bc1qgd7a6m045g779yswq4nrq7auzysg5cd6wds5vm
+    <details>
+      <summary>Show QR Code</summary>
+      <img src="assets/btc-qr.png" alt="Monero QR" width="300">
+    </details>
+    </li>
+  </ul>
+</details>
+
